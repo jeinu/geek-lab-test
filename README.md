@@ -1,1 +1,1 @@
-![Presentacion Online](http://wazaraki.github.io/git-init-slides)
+[Presentacion Online](http://wazaraki.github.io/git-init-slides)
